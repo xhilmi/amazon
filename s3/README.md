@@ -3,6 +3,7 @@ https://havecamerawilltravel.com/how-allow-public-access-amazon-bucket/
 
 
 # Copy code below on: AWS > S3 > Permissions > Bucket policy
+```
 {
     "Version": "2008-10-17",
     "Statement": [
@@ -17,3 +18,4 @@ https://havecamerawilltravel.com/how-allow-public-access-amazon-bucket/
         }
     ]
 }
+```
